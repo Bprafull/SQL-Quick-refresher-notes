@@ -1,6 +1,6 @@
-# SQL-Quick-refresher
+# SQL-Quick-refresher notes
 
-1. Finding Data Queries
+## Finding Data Queries
 SELECT: used to select data from a database
 SELECT * FROM table_name;
 DISTINCT: filters away duplicate values and returns rows of specified column
